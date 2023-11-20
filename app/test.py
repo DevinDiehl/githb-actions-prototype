@@ -1,4 +1,5 @@
 import unittest
+from main import returnBackwardsString
 
 
 class TestMain(unittest.TestCase):
